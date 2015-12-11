@@ -1,0 +1,4 @@
+<launch>
+	<node name='' type='' pkg='wild_thumper'/>
+	<node name='' type='' pkg='wild_thumper'/>
+</launch>
